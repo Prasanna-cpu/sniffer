@@ -6,3 +6,5 @@ function addNumbers(a,b){
 console.log(addNumbers(3,4))
 
 console.log(addNumbers(9,-29))
+
+console.log(addNumbers(0,2))
