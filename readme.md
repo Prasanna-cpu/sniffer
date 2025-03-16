@@ -1,3 +1,4 @@
-## Hello Git,I am Kumar , how ya doin
+## Hello Git , Welcome to GIT AND GITHUB
 
-- I am adding this from 'dev-kuimari3ef', 
+- I am adding this from 'feature-branch'
+- I am adding this from 'dev-gold'
